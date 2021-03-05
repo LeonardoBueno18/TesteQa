@@ -1,2 +1,4 @@
 Hello Git!
 GOGO
+
+Adicionando atualização na branch de fixação 2
